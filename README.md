@@ -19,7 +19,7 @@ Wisata ID merupakan sebuah platfrom yang menyediakan informasi seputar pariwisat
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,git,vite" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,idea,linux,vercel,aws,sublime" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,express,mysql,postman,idea,vercel,aws" /><br>
 </div>
 
 <br/>
