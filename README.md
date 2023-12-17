@@ -1,9 +1,13 @@
 <h1 align="center">Our Capstone Team</h1>
-<h3 align="center">Dicoding Academy (PT Precentologics)</h3>
+<h3 align="center">Dicoding Academy (PT Precentologics) X Studi Independen Bersertifikat Batch 5(Kampus Merdeka)</h3>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+### Our Teams:
+*Ridwan Maulana
+*Karuniawan Ekasakti
+*Farhan Maulana Pangestu
+*Yahya Khaliman Indrayana
+*Hana Amanda
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
