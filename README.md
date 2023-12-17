@@ -1,31 +1,38 @@
-# Product Name
-> Short blurb about what your product does.
+# Wisata ID
+> Capstone Project SIB Cycle 5 Dicoding Academy X Kampus Merdeka
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
 
-One to two paragraph statement about your product and what it does.
+Wisata ID merupakan sebuah platfrom yang menyediakan informasi seputar pariwisata di Indonesia. Tentunya dengan berbagai fitur yang memudahkan pengguna untuk mencari wisata yang diinginkan. Anda bisa mencari wisata dengan klasifikasi wisata sesuai dengan yang anda minta berdasarkan rating, kategori maupun region lokasi wisata yang hendak dituju.
 
 ![](header.png)
 
 ## Installation
 
-OS X & Linux:
-
 ```sh
-npm install my-crazy-module --save
+git clone https://github.com/karuniawanekasakti/wisataid.git
 ```
 
-Windows:
-
 ```sh
-edit autoexec.bat
+npm install
 ```
 
-## Usage example
+```sh
+npm run build
+```
 
-A few motivating and useful examples of how your product can be used. Spice this up with code blocks and potentially more screenshots.
+```sh
+npm run dev
+```
+## Our Teams Project
+
+*Ridwan Maulana (Universitas Alma Ata)
+*Karuniawan Ekasakti (Universitas Gadjah Mada)
+*Farhan Maulana Pangestu (Universitas Alma Ata)
+*Yahya Khaliman Indrayana (Universitas Amikom Surakarta)
+*Hana Amanda (Universitas Teknologi Digital Indonesia)
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
