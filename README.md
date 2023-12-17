@@ -28,11 +28,11 @@ npm run dev
 ```
 ## Our Teams Project
 
-* Ridwan Maulana     ->    _(Universitas Alma Ata)_
-* Karuniawan Ekasakti     ->    _(Universitas Gadjah Mada)_
-* Farhan Maulana Pangestu     ->    _(Universitas Alma Ata)_
-* Yahya Khaliman Indrayana     ->    _(Universitas Amikom Surakarta)_
-* Hana Amanda     ->    _(Universitas Teknologi Digital Indonesia)_
+* __Ridwan Maulana__     ->    _(Universitas Alma Ata)_
+* __Karuniawan Ekasakti__     ->    _(Universitas Gadjah Mada)_
+* __Farhan Maulana Pangestu__     ->    _(Universitas Alma Ata)_
+* __Yahya Khaliman Indrayana__     ->    _(Universitas Amikom Surakarta)_
+* __Hana Amanda__     ->    _(Universitas Teknologi Digital Indonesia)_
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
