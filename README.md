@@ -28,11 +28,11 @@ npm run dev
 ```
 ## Our Teams Project
 
-* Ridwan Maulana (Universitas Alma Ata)
-* Karuniawan Ekasakti (Universitas Gadjah Mada)
-* Farhan Maulana Pangestu (Universitas Alma Ata)
-* Yahya Khaliman Indrayana (Universitas Amikom Surakarta)
-* Hana Amanda (Universitas Teknologi Digital Indonesia)
+* Ridwan Maulana _(Universitas Alma Ata)_
+* Karuniawan Ekasakti _(Universitas Gadjah Mada)_
+* Farhan Maulana Pangestu _(Universitas Alma Ata)_
+* Yahya Khaliman Indrayana _(Universitas Amikom Surakarta)_
+* Hana Amanda _(Universitas Teknologi Digital Indonesia)_
 
 _For more examples and usage, please refer to the [Wiki][wiki]._
 
